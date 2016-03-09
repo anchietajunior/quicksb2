@@ -30,6 +30,7 @@ Import bootstrap styles in app/assets/stylesheets/application.scss. Obs: If it's
 @import "font-awesome-sprockets";
 @import "font-awesome";
 ```
+And into app/assets/javascripts/application.js
 
 ```ruby
 //= require jquery2
@@ -38,6 +39,4 @@ Import bootstrap styles in app/assets/stylesheets/application.scss. Obs: If it's
 //= require metisMenu.min
 //= require sb-admin-2
 ```
-
-And into app/assets/javascripts/application.js
 
