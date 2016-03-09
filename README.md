@@ -8,8 +8,8 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'bootstrap-sass', '~> 3.3.6'
-gem 'quicksb2'
 gem 'font-awesome-sass', '~> 4.5.0'
+gem 'quicksb2'
 ```
 
 And then execute:
