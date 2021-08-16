@@ -1,5 +1,7 @@
 # Quicksb2
 
+![rubygems](https://user-images.githubusercontent.com/8007754/129574899-76a97f2d-dae7-48d7-becd-e8bf4c0c4e12.png)
+
 This is a simple config to use sb-admin2 from startbootstrap in Rails projects.
 
 ## Installation
